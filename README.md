@@ -89,6 +89,6 @@ The output signal matches the ground truth with an MSE value of 2.0941e-07, indi
 
 ![Error](ReadmeFiles/ErrorPlot.png)
 
-### 5. Conclusion
+### 5. Conclusions
 
 The implemented WDF for the MXR Distortion+ Clipping Stage successfully models the analog circuit with a very low Mean Squared Error (MSE). The use of reflection-free ports ensures stability and correct wave interaction.
